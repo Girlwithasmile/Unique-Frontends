@@ -1,6 +1,10 @@
 # Unique-Frontends
+<p align="center" width="50%">
+    <img width="25%" src="https://user-images.githubusercontent.com/116429104/197361448-33b02694-09e5-40e5-9efd-4bbe287c7f19.png">
+</p>
+A repository with unique ideas, unique frontends..!!
+<br>
 
-A repository with unique ideas, unique frontends..!
 This repository is `hacktoberfest-accepted` and a part of `hacktoberfest` 2022..!
 
 <h1>Contributers</h1>
